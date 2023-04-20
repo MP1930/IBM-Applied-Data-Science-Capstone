@@ -1,2 +1,2 @@
 # IBM-Applied-Data-Science-Capstone
-Labs files
+These are the Llbs files of the IBM capstone project taken in Coursera. 
